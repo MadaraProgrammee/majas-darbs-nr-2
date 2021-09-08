@@ -1,0 +1,1 @@
+# majas-darbs-nr-2
