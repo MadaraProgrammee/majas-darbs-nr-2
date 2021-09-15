@@ -1,0 +1,16 @@
+C:\Users\Madara\Documents\Madara\LU VUMC programmesana\majas darbs nr.2\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madara\Documents\Madara\LU VUMC programmesana\majas darbs nr.2\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Madara\Documents\Madara\LU VUMC programmesana\majas darbs nr.2\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Madara\Documents\Madara\LU VUMC programmesana\majas darbs nr.2\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Madara\Documents\Madara\LU VUMC programmesana\majas darbs nr.2\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+C:\Users\Madara\Documents\Madara\LU VUMC programmesana\majas darbs nr.2\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+C:\Users\Madara\Documents\Madara\LU VUMC programmesana\majas darbs nr.2\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Madara\Documents\Madara\LU VUMC programmesana\majas darbs nr.2\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\Madara\Documents\Madara\LU VUMC programmesana\majas darbs nr.2\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+C:\Users\Madara\Documents\Madara\LU VUMC programmesana\majas darbs nr.2\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+C:\Users\Madara\Documents\Madara\LU VUMC programmesana\majas darbs nr.2\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+C:\Users\Madara\Documents\Madara\LU VUMC programmesana\majas darbs nr.2\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+C:\Users\Madara\Documents\Madara\LU VUMC programmesana\majas darbs nr.2\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+C:\Users\Madara\Documents\Madara\LU VUMC programmesana\majas darbs nr.2\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+C:\Users\Madara\Documents\Madara\LU VUMC programmesana\majas darbs nr.2\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Madara\Documents\Madara\LU VUMC programmesana\majas darbs nr.2\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
